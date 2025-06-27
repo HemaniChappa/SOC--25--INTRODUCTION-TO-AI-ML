@@ -6,7 +6,7 @@
 
 ##  Weekly Learning Plan
 
-### Week 1: Python & Programming Basics
+### 
 - Introduction to Programming
 - Python Basics
 - Pandas
@@ -15,13 +15,14 @@
 
 ---
 
-### Week 2: Data Cleaning & Intermediate Machine Learning
+### 
 - Data Cleaning
 - Intermediate Machine Learning
 - Feature Engineering
 - Time Series Forecasting
 
----### Week 3: Data Visualization
+---
+### Data Visualization
 - Video: Data Visualization using Matplotlib and Seaborn  
   Learn how to create various plots and charts using Matplotlib and Seaborn.
 
@@ -30,7 +31,7 @@
 
 ---
 
-### Week 4: Introduction to Machine Learning
+###  Introduction to Machine Learning
 - Video: ML 1: Introduction to Machine Learning | ML Full Course  
   An overview of machine learning concepts, including supervised and unsupervised learning.
 
