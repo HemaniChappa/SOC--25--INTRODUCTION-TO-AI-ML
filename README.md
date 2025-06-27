@@ -4,8 +4,6 @@
 ### This repository contains Jupyter notebooks from Kaggle exercises and tutorials. 
 ---
 
-##  Weekly Learning Plan
-
 ### 
 - Introduction to Programming
 - Python Basics
