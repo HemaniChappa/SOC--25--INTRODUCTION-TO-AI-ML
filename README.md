@@ -1,4 +1,4 @@
-# SOC--25--INTRODUCTION-TO-AI-ML
+# SOC-25-INTRODUCTION-TO-AI-ML
 ### Kaggle Exercise Notebooks
 
 ### This repository contains Jupyter notebooks from Kaggle exercises and tutorials. 
